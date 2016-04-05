@@ -4,9 +4,12 @@ package com.testproject;
  * Hello world!
  *
  */
-public class Hello
+class Hello
 {
-    void Hello1()    {
-        System.out.println( "Hello World!" );
+    public void Hello1()    {
+        System.out.println( "Hi from git to jenkins" );
+    }
+public static void main(String args[])   {
+        new Hello().Hello1();
     }
 }
