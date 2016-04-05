@@ -4,10 +4,14 @@ package com.testproject;
  * Hello world!
  *
  */
-class Hello
+class hello
 {
-    public void Hello1()    {
+    public void hello1()    {
         System.out.println( "Hi from git to jenkins" );
     }
+
+	public static void main(String args[]){
+		new hello().hello1();
+	}
 
 }
