@@ -1,4 +1,4 @@
-package com.test project;
+package com.testproject;
 
 /**
  * Hello world!
@@ -6,8 +6,7 @@ package com.test project;
  */
 public class Hello
 {
-    public static void main( String[] args )
-    {
+    public void Hello()    {
         System.out.println( "Hello World!" );
     }
 }
