@@ -6,7 +6,7 @@ package com.testproject;
  */
 public class Hello
 {
-    public void Hello()    {
+    void Hello1()    {
         System.out.println( "Hello World!" );
     }
 }
