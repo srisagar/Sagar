@@ -1,0 +1,484 @@
+Insite:g8uvcm	
+srisagar1
+fieldglass3
+
+CRIS
+Ap16bg1050
+
+Ista
+C3:002886033403
+9800
+B4: 002886033109
+7106
+
+PCRS
+Domain-- SFMBT
+1289g8uvcm
+
+Oracle
+Vcm0002_
+ ---- AQI Schema
+    aqidbot
+    Nov2009_
+AOReMD1
+Mar2012_
+
+******************
+
+MBS Pool
+g8uvcm
+M@yj0003
+
+**********************
+CORP Domain
+g8uvcm
+Jun_2014
+
+**********************
+
+Aetna
+srisagar80	
+ap16bg1050
+
+userid-cedbot ; password - qqqq_buy2$    (TORSF02)
+tlacq-db01
+aqidbot
+  CCSt3s_1
+
+Lotus
+Vcm0008@
+
+Zecco
+AP16bj1050
+abk1050
+
+Rally
+g8uvcm@fanniemae.com
+Rally01@
+
+
+
+USCIS
+srisagar
+June_2016
+
+
+
+
+
+************
+online SBI
+abk_1050
+
+************
+
+FannieMae Website
+g8uvcm, msagarvidya
+AP16BG@1052
+vidyasagar_medandarao@fanniemae.com
+*****************
+FannieMae Website
+g8uvcm@fanniemae.com
+g8uvcm1
+Nov_2015
+*********************
+
+###########
+CVAS Test
+UNIX
+zqtest
+Dec2009@
+
+zqdbot
+Tp4zt_un
+
+
+
+Oracle
+Oracle_1
+
+
+zqtest
+Dec_2009
+TORSF02
+################
+Unix Box - tlacq-db01
+
+####################
+Kitco
+srisagar
+AP16BJ1050
+
+####################
+918662551255
+7616
+##################
+
+Geico
+srisagar
+ap16bg1050
+
+Travelers
+mvidya.sagar@yahoo.com
+123
+988430665 
+
+
+
+******************
+JHI
+119838
+*******************
+Fidelity
+srisagarfid
+abk1050
+
+***************************
+ASTQB -- Web Assessor
+srisagar
+AP16bj@1050
+
+***********************
+Comcast B4
+jyotsna12069@comcast.net
+claptime
+
+********************************
+FM Homepath
+mvidya.sagar@yahoo.com
+28851444025 
+
+*************************************
+Test Estimation Tool
+CETM
+*****************************************
+ddftest             tacq01
+Unix: Jun.2009
+DB: Dec2010_
+
+dltest
+Aug2010@
+
+Sybase -- TACQ01DS2
+Vcm0007_
+
+*********************************************
+MOBAS -- TACQ02DS1
+ceadmt
+Jan2011_
+unix: Jun2012@
+
+
+************************************************
+dguadlvo
+Jun2010@
+
+*************************************************
+aqitest
+Unix -- Jan2012@
+*****************************************************
+mtftt2
+1010_LoD
+******************************************************
+mbuftpt
+Feb2011@
+
+mbftptt	
+Jul2011@ 
+
+******************************************************
+IRS Pins
+Sagar -- 52865
+Josh  -- 85891
+
+
+*******************************************
+Money2India
+srisagar80
+kANK1PADU
+*****************************************
+Remitly
+mvs@yahoo.com
+K@nk1padu
+
+**********************************************
+TTD eSeva
+msagarvidya@yahoo.com
+tagore
+*********************************************
+IRCTC
+srisagar80
+tagore
+
+************************************************
+sbi
+tigerjosh
+kothaveleru007@
+M@harani2
+AB
+******************************************************8
+Doors
+36677@fm-acust-cm02
+Vidyasagar Medandarao
+PASSWORD1
+
+15013@fm-amplusdc-dr1
+g8uvcm
+g8uvcm
+
+********************************************************
+TORLQ02
+g3ueca
+Aut0mat_
+Clmaut0_
+***********************************************************
+APS
+http://tmplus-ap03z:7249/aps/
+
+q0086anu
+Bruit_32
+
+fnma10t	
+Fw@pr5ze
+****************************************************************
+mbummm
+testmm@9
+
+mbuppp
+testpp@7
+*****************************************************************
+citi
+srisagar80
+abk1050
+
+******************************************************************
+Verizon
+srisagar
+tagore007
+*******************************************************************
+Gas
+srisagarcg
+abk1050
+**********************************************************************
+DOM.com
+srisagar
+abk1050
+
+************************************************************************
+
+eMD App
+Admin  eemmdd1/Eau3613@
+AA&C -- eemmdd/Eau3338@
+a9247m6c  Jan-2011
+Pin 3049
+
+rlu001hu AA&C-
+Jul-2012
+
+a9247a1r
+Mar2012@
+
+a9247axr
+Mar2012@
+
+q0110ent (AA&C)
+Mar2012@
+
+*************************
+
+Fiserv
+
+1001528327
+F!servt00l
+
+MERS
+1003519
+k3uayr
+Feb201%
+
+************************************************************************
+CRS
+w8510sii 
+Crsweb_1
+**********************************************************
+smartevault.com
+
+Sagarsystest1
+Mar2012@
+
+
+Document Engine 
+
+ URL for doc engine:  http://stage.docsignia.com/pages/default.asp
+
+Username: test@fanniemae.com
+
+Password: tester11
+
+ 
+
+You can also open another internet session for the Signia eVault using:
+
+eVault Instructions
+
+ URL for evault: https://test.smartevault.com/Login.asp
+
+Username: demoadmin
+
+Password: password
+
+
+
+**************************************************************
+Turbo TAx
+mvidya.sagar@yahoo.com
+abk1050
+
+*****************************************************************
+tacq01/TACQ01DS3
+rdtest
+Aug_2014
+
+TACQ01DS1
+TOUT1G7E
+Aug_2015
+
+********************************************************************.
+Sungard
+https://enterprise.sungard.com/ldrps.aspx
+g8uvcm@fanniemae
+Jun2012@
+
+*******************************************************************
+Travellers
+mvidya.sagar@yahoo.com
+AP16bg1050
+
+***********************
+progressive Auto policy no :  42995426
+progressive Home policy no :  32040722
+
+srisagar
+abk1050
+
+***************************************
+Good for enterprise
+J0shb@by
+
+******************************************
+Discover loans
+srisagar
+abk1050@
+
+*******************************************88
+Rally
+g8uvcm@fanniemae.com
+Apr2013@
+
+**********************************************************
+namecheap.com
+srisagar
+mvidya.sagar@yahoo.com
+tagore007
+Tagore007@ email
+*************************************************************8
+HP Support
+vidyasagar_medandarao@fanniemae.com
+tagore007@
+**************************************************************
+
+HP user accounts for ART
+fmqcsupp1
+fmqcsupp2
+Sep2013@
+*****************************************************************
+Discover it
+jyokadiyala
+Hollyw008
+
+srisagar -- abk1050@
+
+DCU
+Abk1050@
+*****************************************************************
+NationStar
+srisagar
+Abk#1050
+
+**********************************************************************
+http://healthoneinc.com/#
+sagar
+tagore
+************************************************************
+mvidya.sagar
+K@nk1padu
+************************************************************
+My preventive care
+srisagar
+tagore007
+***********************************************************
+rqu9ftlm
+DB: Jun_2014
+LDAP: A_lmsup1
+
+qcadmin11
+Supp_qc5
+
+cqu3fomt
+Nov_2014
+*******************************************8
+DOORS
+PW: g8uvcm
+********************************************
+360
+srisagar #AP16BJ1050
+*******************************************
+Sedgwick: 8663150607 Attn : lacie
+******************************************
+ Franklin American Mortgage: $1802.56; 0067129981; srisagar; Abk1050
+**********************************************
+TRANSACTION NUMBER: 	400-1911020
+NAME: 	Shri Vidyasagar Medandarao
+TRANSACTION TYPE: 	ONLINE-PAN-NEW
+AMOUNT: 	971.00
+PAYMENT MODE: 	Credit Card / Debit Card 
+
+***************************************************
+Oracle
+Userid = bzhtest
+password: J_9UnkPy
+DB: TOBZH01
+server: tlliquid-db15
+ 11:53 AM 
+ Unix
+user: bzhtest
+UserId: bzhtest 
+Password: tmUli8)+
+
+/export/appl/website/tcserver/pu-cp-svc/runtime
+
+
+MBSC
+
+MBSC Admin mbscadm 2014_Sep
+MBSC Seller Read mbscsr 2014_Sep
+MBSC Seller Write mbscsw 2014_Sep
+MBSC Trader Read mbsctr 2014_Sep
+MBSC Trader Write mbsctw 2014_Sep
+
+d9113mnl
+****************************************************
+Fairfax water
+AcctNo: 0000305836785
+mvidya.sagar@yahoo.com
+Abk1050@
+****************************************************
+2001 HONDA ACCORD 
+VIN: JHMCG66831C011551
+2015 NISSAN PATHFINDER 
+VIN: 5N1AR2MM8FC629088
+************************************************
+Amerisave
+mvidya.sagar@yahoo.com
+XL6TWEYC
+***************************************************
